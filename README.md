@@ -23,11 +23,3 @@ Perfect for beginners learning file handling, exception management, and user inp
 - `Scanner` for user input
 
 ---
-
-## Project Structure
-
-NotesManager/
-├── NotesManager.java # Main source file
-├── notes.txt # Created automatically when you add your first note
-└── README.md # Project documentation
----
